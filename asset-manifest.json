@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/RandomAdviceGenerator/static/css/main.3e81435c.chunk.css",
+    "main.js": "/RandomAdviceGenerator/static/js/main.9fe50dcf.chunk.js",
+    "main.js.map": "/RandomAdviceGenerator/static/js/main.9fe50dcf.chunk.js.map",
+    "runtime-main.js": "/RandomAdviceGenerator/static/js/runtime-main.34acdf77.js",
+    "runtime-main.js.map": "/RandomAdviceGenerator/static/js/runtime-main.34acdf77.js.map",
+    "static/js/2.e7f301ab.chunk.js": "/RandomAdviceGenerator/static/js/2.e7f301ab.chunk.js",
+    "static/js/2.e7f301ab.chunk.js.map": "/RandomAdviceGenerator/static/js/2.e7f301ab.chunk.js.map",
+    "index.html": "/RandomAdviceGenerator/index.html",
+    "static/css/main.3e81435c.chunk.css.map": "/RandomAdviceGenerator/static/css/main.3e81435c.chunk.css.map",
+    "static/js/2.e7f301ab.chunk.js.LICENSE.txt": "/RandomAdviceGenerator/static/js/2.e7f301ab.chunk.js.LICENSE.txt",
+    "static/media/socialFriends.8de71f4c.png": "/RandomAdviceGenerator/static/media/socialFriends.8de71f4c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34acdf77.js",
+    "static/js/2.e7f301ab.chunk.js",
+    "static/css/main.3e81435c.chunk.css",
+    "static/js/main.9fe50dcf.chunk.js"
+  ]
+}
